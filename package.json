@@ -1,4 +1,6 @@
 {
+  "name":"eCommerce_Site",
+  "homepage": "https://dboland77.github.io/eCommerce_Site/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
