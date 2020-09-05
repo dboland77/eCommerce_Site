@@ -27,7 +27,7 @@ export default class extends Component {
                       <h5>Item added to the cart</h5>
                       <img src={img} className="img-fluid" alt="Product" />
                       <h5>{title}</h5>
-                      <h5 className="text-muted">price: ${price}</h5>
+                      <h5 className="text-muted">price: £{price}</h5>
                       <Link to="/">
                         <ButtonContainer onClick={() => closeModal()}>
                           Continue shopping
